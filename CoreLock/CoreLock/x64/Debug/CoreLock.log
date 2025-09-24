@@ -1,0 +1,7 @@
+﻿  CoreLock.c
+C:\Users\User\source\repos\CoreLock\CoreLock\CoreLock.c(92,32): warning C4022: 'GetPriorityClass': pointer mismatch for actual parameter 1
+C:\Users\User\source\repos\CoreLock\CoreLock\CoreLock.c(94,23): warning C4022: 'SetPriorityClass': pointer mismatch for actual parameter 1
+C:\Users\User\source\repos\CoreLock\CoreLock\CoreLock.c(98,26): warning C4022: 'GetPriorityClass': pointer mismatch for actual parameter 1
+C:\Users\User\source\repos\CoreLock\CoreLock\CoreLock.c(276,41): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'LPTHREAD_START_ROUTINE'
+C:\Users\User\source\repos\CoreLock\CoreLock\CoreLock.c(276,41): warning C4133: 'function': incompatible types - from 'void (__cdecl *)()' to 'LPTHREAD_START_ROUTINE'
+  CoreLock.vcxproj -> C:\Users\User\source\repos\CoreLock\CoreLock\x64\Debug\CoreLock.exe
